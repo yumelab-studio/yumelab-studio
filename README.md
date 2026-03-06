@@ -1,7 +1,3 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=B8A1E3&center=true&vCenter=true&width=700&lines=yumelab-studio;code+experiments" />
+  <img src="https://itunes.apple.com/app/apple-store/id917932200?pt=39040802&ct=Media1GIFV2&mt=8" width="100%" />
 </p>
-
----
-
-space for projects and experiments
