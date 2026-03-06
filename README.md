@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="jellyfish.gif" width="700">
+  <img src="https://github.com/yumelab-studio/yumelab-studio/raw/main/tenor.gif" width="700">
 </p>
 
 yumelab-studio
