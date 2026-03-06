@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/8f2cxK2WNsgAAAAd/cybercore-y2k.gif" width="600">
+  <img src="jellyfish.gif" width="700">
 </p>
 
 yumelab-studio
