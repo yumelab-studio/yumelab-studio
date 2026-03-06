@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://github.com/yumelab-studio/yumelab-studio/raw/main/tenor.gif" width="750">
+  <img src="https://github.com/yumelab-studio/yumelab-studio/raw/main/tenor.gif" width="700">
 </p>
-
-<br>
 
 <p align="center">
   <samp>𝚢𝚞𝚖𝚎𝚕𝚊𝚋-𝚜𝚝𝚞𝚍𝚒𝚘</samp>
@@ -12,15 +10,6 @@
   <samp>minimal space for projects and experiments</samp>
 </p>
 
-<br>
-<br>
-
 <p align="center">
-  <img src="https://github.com/yumelab-studio/yumelab-studio/raw/main/city.gif" width="750">
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yumelab-studio&show_icons=true&theme=tokyonight&hide_border=true" height="160">
+  <img src="https://github.com/yumelab-studio/yumelab-studio/raw/main/1b609c74e1a806851c2f284fc02c3e24.gif" width="700">
 </p>
